@@ -1,0 +1,12 @@
+body {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+    font-size: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right,#ff00a2, #00aaff);
+}
+h3 {
+    font-size: 16px;
+}
